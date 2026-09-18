@@ -59,4 +59,4 @@ The application integrates a REST API to fetch real-time weather data and proces
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/sohagd/Weather-Information-App
