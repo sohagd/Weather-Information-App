@@ -1,4 +1,4 @@
-# 🌤 Weather Information App
+# Weather Information App
 
 A Python-based Weather Information Application developed to retrieve and display real-time weather information using a REST API.
 
@@ -74,5 +74,6 @@ The API accepts parameters such as:
 
 The application requests temperature values in Celsius by using metric units.
 
-Example API request structure:
-https://api.openweathermap.org/data/2.5/weather
+## GitHub Repository
+
+https://github.com/sohagd/Weather-Information-App
